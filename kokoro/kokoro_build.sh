@@ -1,4 +1,6 @@
 
+cd github/gax-php
+
 pwd
 
 mkdir pkg
